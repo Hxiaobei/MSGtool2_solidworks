@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='gb2312'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="撒旦给" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Label1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

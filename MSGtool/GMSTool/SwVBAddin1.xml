@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSGtool
+</name>
+</assembly>
+<members>
+<member name="F:MSGtool.SolidWorksMacro.swApp">
+ <summary>
+ The SldWorks swApp variable is pre-assigned for you.
+ </summary>
+</member>
+</members>
+</doc>
